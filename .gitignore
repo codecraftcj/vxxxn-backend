@@ -1,0 +1,5 @@
+/env
+*.mp4
+playground.py
+config.ini
+/__pycache__/
