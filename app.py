@@ -50,7 +50,7 @@ def save_to_s3():
     with open(video_file_name, 'wb') as video_file:
         video_file.write(requests.get(video_url, headers=headers).content)
     
-    audio_url = re.sub(r"(v.redd.it/\w+/)(\w+)(\.mp4)", r"\1DASH_audio\3", video_url)
+    audio_url = re.sub(r"(v.redd.it/\w+/)(\w+)(\.mp4)", r"\1DASH_AUDIO_128\3", video_url)
     print("AUDIO URL")
     print(audio_url)
     audio_file_name = f"{data['output_folder']}/temp_audio.mp4"

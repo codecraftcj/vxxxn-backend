@@ -43,7 +43,7 @@
                         "link_flair_text_color": "light",
                         "upvote_ratio": 0.96,
                         "author_flair_background_color": "",
-                        "ups": 5300,
+                        "ups": 5338,
                         "total_awards_received": 0,
                         "media_embed": {},
                         "thumbnail_width": 140,
@@ -58,9 +58,9 @@
                                 "height": 1080,
                                 "width": 1920,
                                 "scrubber_media_url": "https://v.redd.it/szpg4gzozffe1/DASH_96.mp4",
-                                "dash_url": "https://v.redd.it/szpg4gzozffe1/DASHPlaylist.mpd?a=1740601739%2CMmJiNDYzM2E4ZDdhMDM2ODcxNjYzNWJkZWZmNWM2NTg2ZjJmMTFlNGY1OGI0MmJmY2MwYTZlYzE5OGQyMjViNw%3D%3D&amp;v=1&amp;f=sd",
+                                "dash_url": "https://v.redd.it/szpg4gzozffe1/DASHPlaylist.mpd?a=1740602901%2CMTgxNGY1MjMyZDlkODU1YjQ5NGRhN2MwNjM2ZmRkYzA4ODk1ZGM4OGMxYmFiZjM3ZjgyZjgwMDVmNjQzN2ExNw%3D%3D&amp;v=1&amp;f=sd",
                                 "duration": 17,
-                                "hls_url": "https://v.redd.it/szpg4gzozffe1/HLSPlaylist.m3u8?a=1740601739%2CYmEwZjUzMzMxM2Q1Y2NjOWI4MzFlMzgyNTY2ZWU0YTNkYWQzZTk5OTUwYzQwODZjN2VkOTI1MWE4YzYwZjlmNg%3D%3D&amp;v=1&amp;f=sd",
+                                "hls_url": "https://v.redd.it/szpg4gzozffe1/HLSPlaylist.m3u8?a=1740602901%2CZTI5NjQ5NGZhMTRmZWZiYjg5NzdlN2E1NGI2M2I1ZmRkMjdjMTlhOTgyZGZjODUyMGMzMzdjYjhhYTc2Yzc3Zg%3D%3D&amp;v=1&amp;f=sd",
                                 "is_gif": false,
                                 "transcoding_status": "completed"
                             }
@@ -71,7 +71,7 @@
                         "secure_media_embed": {},
                         "link_flair_text": ":football: Football",
                         "can_mod_post": false,
-                        "score": 5300,
+                        "score": 5338,
                         "approved_by": null,
                         "is_created_from_ads_ui": false,
                         "author_premium": false,
@@ -184,7 +184,7 @@
                         "report_reasons": null,
                         "author": "nfl",
                         "discussion_type": null,
-                        "num_comments": 191,
+                        "num_comments": 192,
                         "send_replies": true,
                         "media": {
                             "reddit_video": {
@@ -194,9 +194,9 @@
                                 "height": 1080,
                                 "width": 1920,
                                 "scrubber_media_url": "https://v.redd.it/szpg4gzozffe1/DASH_96.mp4",
-                                "dash_url": "https://v.redd.it/szpg4gzozffe1/DASHPlaylist.mpd?a=1740601739%2CMmJiNDYzM2E4ZDdhMDM2ODcxNjYzNWJkZWZmNWM2NTg2ZjJmMTFlNGY1OGI0MmJmY2MwYTZlYzE5OGQyMjViNw%3D%3D&amp;v=1&amp;f=sd",
+                                "dash_url": "https://v.redd.it/szpg4gzozffe1/DASHPlaylist.mpd?a=1740602901%2CMTgxNGY1MjMyZDlkODU1YjQ5NGRhN2MwNjM2ZmRkYzA4ODk1ZGM4OGMxYmFiZjM3ZjgyZjgwMDVmNjQzN2ExNw%3D%3D&amp;v=1&amp;f=sd",
                                 "duration": 17,
-                                "hls_url": "https://v.redd.it/szpg4gzozffe1/HLSPlaylist.m3u8?a=1740601739%2CYmEwZjUzMzMxM2Q1Y2NjOWI4MzFlMzgyNTY2ZWU0YTNkYWQzZTk5OTUwYzQwODZjN2VkOTI1MWE4YzYwZjlmNg%3D%3D&amp;v=1&amp;f=sd",
+                                "hls_url": "https://v.redd.it/szpg4gzozffe1/HLSPlaylist.m3u8?a=1740602901%2CZTI5NjQ5NGZhMTRmZWZiYjg5NzdlN2E1NGI2M2I1ZmRkMjdjMTlhOTgyZGZjODUyMGMzMzdjYjhhYTc2Yzc3Zg%3D%3D&amp;v=1&amp;f=sd",
                                 "is_gif": false,
                                 "transcoding_status": "completed"
                             }
@@ -207,7 +207,7 @@
                         "permalink": "/r/sports/comments/1iawp6p/josh_allen_runs_option_on_4th_goal_pitches_to/",
                         "stickied": false,
                         "url": "https://v.redd.it/szpg4gzozffe1",
-                        "subreddit_subscribers": 21782525,
+                        "subreddit_subscribers": 21782598,
                         "created_utc": 1737942640.0,
                         "num_crossposts": 1,
                         "mod_reports": [],
@@ -301,7 +301,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9driyw",
-                                                                "score": 11,
+                                                                "score": 12,
                                                                 "author_fullname": "t2_71ef5h1sg",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -344,7 +344,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": 11
+                                                                "ups": 12
                                                             }
                                                         },
                                                         {
@@ -440,7 +440,7 @@
                                             "created_utc": 1737943969.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9do9ax",
-                                            "score": 169,
+                                            "score": 170,
                                             "author_fullname": "t2_h6oit",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -482,7 +482,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 169
+                                            "ups": 170
                                         }
                                     },
                                     {
@@ -515,7 +515,7 @@
                                             "created_utc": 1737948646.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9do9ax",
-                                            "score": 62,
+                                            "score": 65,
                                             "author_fullname": "t2_3dmr4fgd",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -557,7 +557,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 62
+                                            "ups": 65
                                         }
                                     },
                                     {
@@ -590,7 +590,7 @@
                                             "created_utc": 1737995882.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9do9ax",
-                                            "score": 4,
+                                            "score": 3,
                                             "author_fullname": "t2_57tdia51",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -632,7 +632,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 4
+                                            "ups": 3
                                         }
                                     },
                                     {
@@ -711,7 +711,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9eztfw",
-                                                                "score": 37,
+                                                                "score": 36,
                                                                 "author_fullname": "t2_11b8fsgt",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -754,7 +754,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": 37
+                                                                "ups": 36
                                                             }
                                                         }
                                                     ],
@@ -775,7 +775,7 @@
                                             "created_utc": 1737961962.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9do9ax",
-                                            "score": -50,
+                                            "score": -49,
                                             "author_fullname": "t2_csfci",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -827,7 +827,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": -50
+                                            "ups": -49
                                         }
                                     }
                                 ],
@@ -848,7 +848,7 @@
                         "created_utc": 1737942971.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 842,
+                        "score": 851,
                         "author_fullname": "t2_13621t",
                         "approved_by": null,
                         "mod_note": null,
@@ -890,7 +890,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 842
+                        "ups": 851
                     }
                 },
                 {
@@ -1009,7 +1009,7 @@
                         "created_utc": 1737942999.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 278,
+                        "score": 283,
                         "author_fullname": "t2_nwoq4",
                         "approved_by": null,
                         "mod_note": null,
@@ -1061,7 +1061,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 278
+                        "ups": 283
                     }
                 },
                 {
@@ -1203,7 +1203,7 @@
                                             "created_utc": 1737944199.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9dp96k",
-                                            "score": 73,
+                                            "score": 71,
                                             "author_fullname": "t2_psbr9",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -1245,7 +1245,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 73
+                                            "ups": 71
                                         }
                                     },
                                     {
@@ -1439,7 +1439,7 @@
                                             "created_utc": 1737951318.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9dp96k",
-                                            "score": 28,
+                                            "score": 30,
                                             "author_fullname": "t2_3yuk2vjh",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -1481,7 +1481,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 28
+                                            "ups": 30
                                         }
                                     },
                                     {
@@ -1577,7 +1577,7 @@
                         "created_utc": 1737943276.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 274,
+                        "score": 278,
                         "author_fullname": "t2_tsb0i",
                         "approved_by": null,
                         "mod_note": null,
@@ -1619,7 +1619,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 274
+                        "ups": 278
                     }
                 },
                 {
@@ -1675,7 +1675,7 @@
                                             "created_utc": 1737952054.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9ea103",
-                                            "score": 36,
+                                            "score": 37,
                                             "author_fullname": "t2_12x12t",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -1717,7 +1717,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 36
+                                            "ups": 37
                                         }
                                     },
                                     {
@@ -1956,7 +1956,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9g6ifs",
-                                                                                    "score": 4,
+                                                                                    "score": 3,
                                                                                     "author_fullname": "t2_g20up",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -2009,7 +2009,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 4
+                                                                                    "ups": 3
                                                                                 }
                                                                             }
                                                                         ],
@@ -2156,7 +2156,7 @@
                         "created_utc": 1737949914.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 94,
+                        "score": 98,
                         "author_fullname": "t2_12ycxd",
                         "approved_by": null,
                         "mod_note": null,
@@ -2198,7 +2198,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 94
+                        "ups": 98
                     }
                 },
                 {
@@ -2276,7 +2276,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9dqblk",
-                                                                "score": 5,
+                                                                "score": 6,
                                                                 "author_fullname": "t2_h56tf",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -2319,7 +2319,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": 5
+                                                                "ups": 6
                                                             }
                                                         },
                                                         {
@@ -2621,7 +2621,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9dr5eh",
-                                                                                    "score": 23,
+                                                                                    "score": 22,
                                                                                     "author_fullname": "t2_17hw9d",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -2664,7 +2664,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 23
+                                                                                    "ups": 22
                                                                                 }
                                                                             },
                                                                             {
@@ -2759,7 +2759,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9dqblk",
-                                                                "score": -5,
+                                                                "score": -7,
                                                                 "author_fullname": "t2_vg2pk",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -2802,7 +2802,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": -5
+                                                                "ups": -7
                                                             }
                                                         }
                                                     ],
@@ -2823,7 +2823,7 @@
                                             "created_utc": 1737943616.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9do14c",
-                                            "score": 131,
+                                            "score": 133,
                                             "author_fullname": "t2_17hw9d",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -2865,7 +2865,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 131
+                                            "ups": 133
                                         }
                                     },
                                     {
@@ -2967,7 +2967,7 @@
                                                                                                         "can_mod_post": false,
                                                                                                         "send_replies": true,
                                                                                                         "parent_id": "t1_m9gpx8t",
-                                                                                                        "score": 5,
+                                                                                                        "score": 6,
                                                                                                         "author_fullname": "t2_18w2yik2",
                                                                                                         "removal_reason": null,
                                                                                                         "approved_by": null,
@@ -3009,7 +3009,7 @@
                                                                                                         "collapsed_because_crowd_control": null,
                                                                                                         "mod_reports": [],
                                                                                                         "num_reports": null,
-                                                                                                        "ups": 5
+                                                                                                        "ups": 6
                                                                                                     }
                                                                                                 }
                                                                                             ],
@@ -3029,7 +3029,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9dq4sr",
-                                                                                    "score": 12,
+                                                                                    "score": 10,
                                                                                     "author_fullname": "t2_bmafu",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -3072,7 +3072,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 12
+                                                                                    "ups": 10
                                                                                 }
                                                                             },
                                                                             {
@@ -3200,7 +3200,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9dq4sr",
-                                                                                    "score": 15,
+                                                                                    "score": 13,
                                                                                     "author_fullname": "t2_xaqrv",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -3243,7 +3243,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 15
+                                                                                    "ups": 13
                                                                                 }
                                                                             },
                                                                             {
@@ -3642,7 +3642,7 @@
                                                                                                         "can_mod_post": false,
                                                                                                         "send_replies": true,
                                                                                                         "parent_id": "t1_m9gbco5",
-                                                                                                        "score": 3,
+                                                                                                        "score": 5,
                                                                                                         "author_fullname": "t2_6p4t5",
                                                                                                         "removal_reason": null,
                                                                                                         "approved_by": null,
@@ -3694,7 +3694,7 @@
                                                                                                         "collapsed_because_crowd_control": null,
                                                                                                         "mod_reports": [],
                                                                                                         "num_reports": null,
-                                                                                                        "ups": 3
+                                                                                                        "ups": 5
                                                                                                     }
                                                                                                 }
                                                                                             ],
@@ -3777,7 +3777,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9do88p",
-                                                                "score": 68,
+                                                                "score": 67,
                                                                 "author_fullname": "t2_oepwe",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -3820,7 +3820,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": 68
+                                                                "ups": 67
                                                             }
                                                         },
                                                         {
@@ -3852,7 +3852,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9do88p",
-                                                                "score": 5,
+                                                                "score": 3,
                                                                 "author_fullname": "t2_ruqua",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -3895,7 +3895,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": 5
+                                                                "ups": 3
                                                             }
                                                         },
                                                         {
@@ -3927,7 +3927,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9do88p",
-                                                                "score": 3,
+                                                                "score": 4,
                                                                 "author_fullname": "t2_cmr2kafx",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -3970,7 +3970,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": 3
+                                                                "ups": 4
                                                             }
                                                         },
                                                         {
@@ -4100,7 +4100,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9domqc",
-                                                                                    "score": 7,
+                                                                                    "score": 9,
                                                                                     "author_fullname": "t2_lgtid",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -4143,7 +4143,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 7
+                                                                                    "ups": 9
                                                                                 }
                                                                             },
                                                                             {
@@ -4179,7 +4179,7 @@
                                                                                                         "awarders": [],
                                                                                                         "mod_reason_by": null,
                                                                                                         "banned_by": null,
-                                                                                                        "ups": -2,
+                                                                                                        "ups": -3,
                                                                                                         "removal_reason": null,
                                                                                                         "link_id": "t3_1iawp6p",
                                                                                                         "author_flair_template_id": null,
@@ -4246,7 +4246,7 @@
                                                                                                                                                 "can_mod_post": false,
                                                                                                                                                 "send_replies": true,
                                                                                                                                                 "parent_id": "t1_m9dr84k",
-                                                                                                                                                "score": 3,
+                                                                                                                                                "score": 4,
                                                                                                                                                 "author_fullname": "t2_c9z9m",
                                                                                                                                                 "approved_by": null,
                                                                                                                                                 "mod_note": null,
@@ -4298,7 +4298,7 @@
                                                                                                                                                 "collapsed_because_crowd_control": null,
                                                                                                                                                 "mod_reports": [],
                                                                                                                                                 "num_reports": null,
-                                                                                                                                                "ups": 3
+                                                                                                                                                "ups": 4
                                                                                                                                             }
                                                                                                                                         }
                                                                                                                                     ],
@@ -4318,7 +4318,7 @@
                                                                                                                             "can_mod_post": false,
                                                                                                                             "send_replies": true,
                                                                                                                             "parent_id": "t1_m9dpy9p",
-                                                                                                                            "score": 16,
+                                                                                                                            "score": 15,
                                                                                                                             "author_fullname": "t2_c8gc53me",
                                                                                                                             "approved_by": null,
                                                                                                                             "mod_note": null,
@@ -4360,7 +4360,7 @@
                                                                                                                             "collapsed_because_crowd_control": null,
                                                                                                                             "mod_reports": [],
                                                                                                                             "num_reports": null,
-                                                                                                                            "ups": 16
+                                                                                                                            "ups": 15
                                                                                                                         }
                                                                                                                     },
                                                                                                                     {
@@ -4441,7 +4441,7 @@
                                                                                                                                                                     "created_utc": 1737946585.0,
                                                                                                                                                                     "send_replies": true,
                                                                                                                                                                     "parent_id": "t1_m9e02ak",
-                                                                                                                                                                    "score": -1,
+                                                                                                                                                                    "score": 0,
                                                                                                                                                                     "author_fullname": "t2_ovbj4",
                                                                                                                                                                     "approved_by": null,
                                                                                                                                                                     "mod_note": null,
@@ -4482,7 +4482,7 @@
                                                                                                                                                                     "collapsed_because_crowd_control": null,
                                                                                                                                                                     "mod_reports": [],
                                                                                                                                                                     "num_reports": null,
-                                                                                                                                                                    "ups": -1
+                                                                                                                                                                    "ups": 0
                                                                                                                                                                 }
                                                                                                                                                             }
                                                                                                                                                         ],
@@ -4622,7 +4622,7 @@
                                                                                                         "can_mod_post": false,
                                                                                                         "send_replies": true,
                                                                                                         "parent_id": "t1_m9dopyv",
-                                                                                                        "score": -2,
+                                                                                                        "score": -3,
                                                                                                         "approved_by": null,
                                                                                                         "report_reasons": null,
                                                                                                         "all_awardings": [],
@@ -4680,7 +4680,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9domqc",
-                                                                                    "score": 17,
+                                                                                    "score": 14,
                                                                                     "author_fullname": "t2_118spp",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -4723,7 +4723,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 17
+                                                                                    "ups": 14
                                                                                 }
                                                                             },
                                                                             {
@@ -4914,7 +4914,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9do88p",
-                                                                "score": -61,
+                                                                "score": -60,
                                                                 "author_fullname": "t2_31kvl05f",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -4957,7 +4957,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": -61
+                                                                "ups": -60
                                                             }
                                                         }
                                                     ],
@@ -4978,7 +4978,7 @@
                                             "created_utc": 1737942962.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9do14c",
-                                            "score": 115,
+                                            "score": 120,
                                             "author_fullname": "t2_118spp",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -5020,7 +5020,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 115
+                                            "ups": 120
                                         }
                                     },
                                     {
@@ -5053,7 +5053,7 @@
                                             "created_utc": 1737996771.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9do14c",
-                                            "score": 3,
+                                            "score": 2,
                                             "author_fullname": "t2_gasj6",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -5095,7 +5095,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 3
+                                            "ups": 2
                                         }
                                     },
                                     {
@@ -5248,7 +5248,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9e7qpn",
-                                                                                    "score": 10,
+                                                                                    "score": 8,
                                                                                     "author_fullname": "t2_zavm8",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -5291,7 +5291,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 10
+                                                                                    "ups": 8
                                                                                 }
                                                                             }
                                                                         ],
@@ -5547,7 +5547,7 @@
                                                                                                                                                                                                             "created_utc": 1737989297.0,
                                                                                                                                                                                                             "send_replies": true,
                                                                                                                                                                                                             "parent_id": "t1_m9gfvab",
-                                                                                                                                                                                                            "score": 1,
+                                                                                                                                                                                                            "score": 2,
                                                                                                                                                                                                             "author_fullname": "t2_scc99acs",
                                                                                                                                                                                                             "approved_by": null,
                                                                                                                                                                                                             "mod_note": null,
@@ -5589,7 +5589,7 @@
                                                                                                                                                                                                             "collapsed_because_crowd_control": null,
                                                                                                                                                                                                             "mod_reports": [],
                                                                                                                                                                                                             "num_reports": null,
-                                                                                                                                                                                                            "ups": 1
+                                                                                                                                                                                                            "ups": 2
                                                                                                                                                                                                         }
                                                                                                                                                                                                     }
                                                                                                                                                                                                 ],
@@ -5673,7 +5673,7 @@
                                                                                                                                                                     "created_utc": 1737985428.0,
                                                                                                                                                                     "send_replies": true,
                                                                                                                                                                     "parent_id": "t1_m9g3yrh",
-                                                                                                                                                                    "score": 2,
+                                                                                                                                                                    "score": 3,
                                                                                                                                                                     "author_fullname": "t2_14qlab",
                                                                                                                                                                     "approved_by": null,
                                                                                                                                                                     "mod_note": null,
@@ -5714,7 +5714,7 @@
                                                                                                                                                                     "collapsed_because_crowd_control": null,
                                                                                                                                                                     "mod_reports": [],
                                                                                                                                                                     "num_reports": null,
-                                                                                                                                                                    "ups": 2
+                                                                                                                                                                    "ups": 3
                                                                                                                                                                 }
                                                                                                                                                             }
                                                                                                                                                         ],
@@ -5734,7 +5734,7 @@
                                                                                                                                                 "can_mod_post": false,
                                                                                                                                                 "send_replies": true,
                                                                                                                                                 "parent_id": "t1_m9fw7q7",
-                                                                                                                                                "score": -4,
+                                                                                                                                                "score": -3,
                                                                                                                                                 "author_fullname": "t2_l5nnp",
                                                                                                                                                 "approved_by": null,
                                                                                                                                                 "mod_note": null,
@@ -5776,7 +5776,7 @@
                                                                                                                                                 "collapsed_because_crowd_control": null,
                                                                                                                                                 "mod_reports": [],
                                                                                                                                                 "num_reports": null,
-                                                                                                                                                "ups": -4
+                                                                                                                                                "ups": -3
                                                                                                                                             }
                                                                                                                                         }
                                                                                                                                     ],
@@ -5796,7 +5796,7 @@
                                                                                                                             "can_mod_post": false,
                                                                                                                             "send_replies": true,
                                                                                                                             "parent_id": "t1_m9dxrrx",
-                                                                                                                            "score": 5,
+                                                                                                                            "score": 7,
                                                                                                                             "author_fullname": "t2_14qlab",
                                                                                                                             "approved_by": null,
                                                                                                                             "mod_note": null,
@@ -5838,7 +5838,7 @@
                                                                                                                             "collapsed_because_crowd_control": null,
                                                                                                                             "mod_reports": [],
                                                                                                                             "num_reports": null,
-                                                                                                                            "ups": 5
+                                                                                                                            "ups": 7
                                                                                                                         }
                                                                                                                     }
                                                                                                                 ],
@@ -5858,7 +5858,7 @@
                                                                                                         "can_mod_post": false,
                                                                                                         "send_replies": true,
                                                                                                         "parent_id": "t1_m9dxifu",
-                                                                                                        "score": -3,
+                                                                                                        "score": -4,
                                                                                                         "author_fullname": "t2_4mw25y33",
                                                                                                         "removal_reason": null,
                                                                                                         "approved_by": null,
@@ -5900,7 +5900,7 @@
                                                                                                         "collapsed_because_crowd_control": null,
                                                                                                         "mod_reports": [],
                                                                                                         "num_reports": null,
-                                                                                                        "ups": -3
+                                                                                                        "ups": -4
                                                                                                     }
                                                                                                 }
                                                                                             ],
@@ -5920,7 +5920,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9dwe4z",
-                                                                                    "score": 7,
+                                                                                    "score": 9,
                                                                                     "author_fullname": "t2_14qlab",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -5963,7 +5963,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 7
+                                                                                    "ups": 9
                                                                                 }
                                                                             },
                                                                             {
@@ -6242,7 +6242,7 @@
                                                                                     "can_mod_post": false,
                                                                                     "send_replies": true,
                                                                                     "parent_id": "t1_m9dwe4z",
-                                                                                    "score": 3,
+                                                                                    "score": 0,
                                                                                     "author_fullname": "t2_9yb4st00",
                                                                                     "removal_reason": null,
                                                                                     "approved_by": null,
@@ -6285,7 +6285,7 @@
                                                                                     "collapsed_because_crowd_control": null,
                                                                                     "mod_reports": [],
                                                                                     "num_reports": null,
-                                                                                    "ups": 3
+                                                                                    "ups": 0
                                                                                 }
                                                                             }
                                                                         ],
@@ -6305,7 +6305,7 @@
                                                                 "can_mod_post": false,
                                                                 "send_replies": true,
                                                                 "parent_id": "t1_m9duzg2",
-                                                                "score": -5,
+                                                                "score": -6,
                                                                 "author_fullname": "t2_4mw25y33",
                                                                 "removal_reason": null,
                                                                 "approved_by": null,
@@ -6348,7 +6348,7 @@
                                                                 "collapsed_because_crowd_control": null,
                                                                 "mod_reports": [],
                                                                 "num_reports": null,
-                                                                "ups": -5
+                                                                "ups": -6
                                                             }
                                                         }
                                                     ],
@@ -6369,7 +6369,7 @@
                                             "created_utc": 1737945005.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9do14c",
-                                            "score": -16,
+                                            "score": -19,
                                             "author_fullname": "t2_9yb4st00",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -6411,7 +6411,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": -16
+                                            "ups": -19
                                         }
                                     }
                                 ],
@@ -6432,7 +6432,7 @@
                         "created_utc": 1737942900.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 529,
+                        "score": 534,
                         "author_fullname": "t2_dbso3",
                         "approved_by": null,
                         "mod_note": null,
@@ -6474,7 +6474,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 529
+                        "ups": 534
                     }
                 },
                 {
@@ -6691,7 +6691,7 @@
                                             "created_utc": 1737987273.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9egpgd",
-                                            "score": 14,
+                                            "score": 12,
                                             "author_fullname": "t2_5y902",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -6733,7 +6733,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 14
+                                            "ups": 12
                                         }
                                     },
                                     {
@@ -6766,7 +6766,7 @@
                                             "created_utc": 1737953873.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9egpgd",
-                                            "score": -7,
+                                            "score": -6,
                                             "author_fullname": "t2_nf3wu",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -6808,7 +6808,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": -7
+                                            "ups": -6
                                         }
                                     }
                                 ],
@@ -6829,7 +6829,7 @@
                         "created_utc": 1737952520.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 35,
+                        "score": 33,
                         "author_fullname": "t2_13y55a4zsx",
                         "approved_by": null,
                         "mod_note": null,
@@ -6871,7 +6871,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 35
+                        "ups": 33
                     }
                 },
                 {
@@ -6904,7 +6904,7 @@
                         "created_utc": 1737946731.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 10,
+                        "score": 8,
                         "author_fullname": "t2_hgue3",
                         "approved_by": null,
                         "mod_note": null,
@@ -6946,7 +6946,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 10
+                        "ups": 8
                     }
                 },
                 {
@@ -6979,7 +6979,7 @@
                         "created_utc": 1737951675.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 9,
+                        "score": 10,
                         "author_fullname": "t2_7fgc5",
                         "approved_by": null,
                         "mod_note": null,
@@ -7021,7 +7021,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 9
+                        "ups": 10
                     }
                 },
                 {
@@ -7054,7 +7054,7 @@
                         "created_utc": 1737943204.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 28,
+                        "score": 30,
                         "author_fullname": "t2_jjzprjxd",
                         "approved_by": null,
                         "mod_note": null,
@@ -7096,7 +7096,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 28
+                        "ups": 30
                     }
                 },
                 {
@@ -7129,7 +7129,7 @@
                         "created_utc": 1737980530.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 7,
+                        "score": 6,
                         "author_fullname": "t2_105fmc",
                         "approved_by": null,
                         "mod_note": null,
@@ -7171,7 +7171,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 7
+                        "ups": 6
                     }
                 },
                 {
@@ -7204,7 +7204,7 @@
                         "created_utc": 1737943497.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 5,
+                        "score": 6,
                         "author_fullname": "t2_ca7lzo1q",
                         "approved_by": null,
                         "mod_note": null,
@@ -7246,7 +7246,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 5
+                        "ups": 6
                     }
                 },
                 {
@@ -7644,7 +7644,7 @@
                         "awarders": [],
                         "mod_reason_by": null,
                         "banned_by": null,
-                        "ups": 31,
+                        "ups": 35,
                         "removal_reason": null,
                         "link_id": "t3_1iawp6p",
                         "author_flair_template_id": null,
@@ -7687,7 +7687,7 @@
                                             "created_utc": 1737945476.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9doo3u",
-                                            "score": 7,
+                                            "score": 8,
                                             "author_fullname": "t2_vkscrbkql",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -7729,7 +7729,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 7
+                                            "ups": 8
                                         }
                                     },
                                     {
@@ -7762,7 +7762,7 @@
                                             "created_utc": 1737945053.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9doo3u",
-                                            "score": 1,
+                                            "score": 2,
                                             "author_fullname": "t2_zbvfv",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -7804,7 +7804,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": 1
+                                            "ups": 2
                                         }
                                     },
                                     {
@@ -8560,7 +8560,7 @@
                         "can_mod_post": false,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 31,
+                        "score": 35,
                         "approved_by": null,
                         "report_reasons": null,
                         "all_awardings": [],
@@ -9091,7 +9091,7 @@
                         "created_utc": 1737980403.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 3,
+                        "score": 4,
                         "author_fullname": "t2_thomj",
                         "approved_by": null,
                         "mod_note": null,
@@ -9133,7 +9133,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 3
+                        "ups": 4
                     }
                 },
                 {
@@ -9252,7 +9252,7 @@
                         "created_utc": 1737984543.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 3,
+                        "score": 2,
                         "author_fullname": "t2_18fuuip7hm",
                         "approved_by": null,
                         "mod_note": null,
@@ -9294,7 +9294,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 3
+                        "ups": 2
                     }
                 },
                 {
@@ -9500,7 +9500,7 @@
                                             "created_utc": 1737944470.0,
                                             "send_replies": true,
                                             "parent_id": "t1_m9dozcs",
-                                            "score": -13,
+                                            "score": -15,
                                             "author_fullname": "t2_c08e09",
                                             "removal_reason": null,
                                             "approved_by": null,
@@ -9542,7 +9542,7 @@
                                             "collapsed_because_crowd_control": null,
                                             "mod_reports": [],
                                             "num_reports": null,
-                                            "ups": -13
+                                            "ups": -15
                                         }
                                     }
                                 ],
@@ -9563,7 +9563,7 @@
                         "created_utc": 1737943190.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 12,
+                        "score": 8,
                         "author_fullname": "t2_te9kz",
                         "approved_by": null,
                         "mod_note": null,
@@ -9605,7 +9605,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 12
+                        "ups": 8
                     }
                 },
                 {
@@ -9874,7 +9874,7 @@
                         "created_utc": 1737943293.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 2,
+                        "score": 3,
                         "author_fullname": "t2_qwcgr",
                         "approved_by": null,
                         "mod_note": null,
@@ -9916,7 +9916,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 2
+                        "ups": 3
                     }
                 },
                 {
@@ -10024,7 +10024,7 @@
                         "created_utc": 1737950400.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 3,
+                        "score": 1,
                         "author_fullname": "t2_979gww2z",
                         "approved_by": null,
                         "mod_note": null,
@@ -10066,7 +10066,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 3
+                        "ups": 1
                     }
                 },
                 {
@@ -12060,7 +12060,7 @@
                         "created_utc": 1737951702.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": 1,
+                        "score": -1,
                         "author_fullname": "t2_7sxjons",
                         "approved_by": null,
                         "mod_note": null,
@@ -12102,7 +12102,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": 1
+                        "ups": -1
                     }
                 },
                 {
@@ -12135,7 +12135,7 @@
                         "created_utc": 1737943336.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": -7,
+                        "score": -9,
                         "author_fullname": "t2_au5j7",
                         "approved_by": null,
                         "mod_note": null,
@@ -12177,7 +12177,7 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": -7
+                        "ups": -9
                     }
                 },
                 {
@@ -12671,7 +12671,7 @@
                         "created_utc": 1737945288.0,
                         "send_replies": true,
                         "parent_id": "t3_1iawp6p",
-                        "score": -14,
+                        "score": -15,
                         "author_fullname": "t2_koyas",
                         "approved_by": null,
                         "mod_note": null,
@@ -12713,7 +12713,20 @@
                         "collapsed_because_crowd_control": null,
                         "mod_reports": [],
                         "num_reports": null,
-                        "ups": -14
+                        "ups": -15
+                    }
+                },
+                {
+                    "kind": "more",
+                    "data": {
+                        "count": 1,
+                        "name": "t1_m9in7ag",
+                        "id": "m9in7ag",
+                        "parent_id": "t3_1iawp6p",
+                        "depth": 0,
+                        "children": [
+                            "m9in7ag"
+                        ]
                     }
                 }
             ],
