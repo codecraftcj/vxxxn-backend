@@ -6,7 +6,7 @@ import re
 import praw
 import boto3
 import configparser
-
+import json
 #CONFIG PARSER INIT
 config = configparser.RawConfigParser()
 config.read("config.ini")
@@ -15,7 +15,7 @@ config.read("config.ini")
 S3_REGION = config.get("S3 Bucket Credentials","S3_REGION")
 S3_ACCESS_KEY_ID = config.get("S3 Bucket Credentials","S3_ACCESS_KEY_ID")
 S3_SECRET_ACCESS_KEY = config.get("S3 Bucket Credentials","S3_SECRET_ACCESS_KEY")
-S3_BUCKET_NAME = config.get("S3 Bucket Credentials","S3_BUCKET_NAME")
+S3_BUCKET_NAME = config.get("S3 Bucket Details","S3_BUCKET_NAME")
 
 app = Flask(__name__)
 
@@ -34,12 +34,30 @@ def home():
 def save_to_s3():
     data = request.get_json()
     video_file_name = f"{data['output_folder']}/temp_video.mp4"
+    headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+        }
+    metadata = json.loads(requests.get(data['reddit_post_url']+".json", headers=headers).content)
+    with open("sample-json.json", 'w') as file:
+        
+        response = requests.get(data['reddit_post_url'] + ".json", headers=headers)
+        metadata = json.loads(response.content)
+        json.dump(metadata, file, indent=4)
+    print("METADATA")
+    print(data['reddit_post_url']+".json")
+    print(metadata)
+    video_url = metadata[0]['data']['children'][0]['data']['secure_media']['reddit_video']['fallback_url']
     with open(video_file_name, 'wb') as video_file:
-        video_file.write(requests.get(data['reddit_video_url']).content)
+        video_file.write(requests.get(video_url, headers=headers).content)
     
-    audio_url = re.sub(r"(v.redd.it/\w+/)(\w+)(\.mp4)", r"\1DASH_audio\3", data['reddit_video_url'])
+    audio_url = re.sub(r"(v.redd.it/\w+/)(\w+)(\.mp4)", r"\1DASH_audio\3", video_url)
+    print("AUDIO URL")
+    print(audio_url)
     audio_file_name = f"{data['output_folder']}/temp_audio.mp4"
     with open(audio_file_name, 'wb') as audio_file:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+        }
         audio_file.write(requests.get(audio_url).content)
 
     output_file_name = f"{data['output_name']}.mp4"
