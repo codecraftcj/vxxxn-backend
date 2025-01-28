@@ -3,3 +3,4 @@
 playground.py
 config.ini
 /__pycache__/
+jobs.db
