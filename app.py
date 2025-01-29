@@ -12,15 +12,11 @@ from queue import Queue
 from datetime import datetime
 import uuid
 
-# CONFIG PARSER INIT
-config = configparser.RawConfigParser()
-config.read("config.ini")
-
 # S3 BUCKET CREDENTIALS & DETAILS
-S3_REGION = config.get("S3 Bucket Credentials", "S3_REGION")
-S3_ACCESS_KEY_ID = config.get("S3 Bucket Credentials", "S3_ACCESS_KEY_ID")
-S3_SECRET_ACCESS_KEY = config.get("S3 Bucket Credentials", "S3_SECRET_ACCESS_KEY")
-S3_BUCKET_NAME = config.get("S3 Bucket Details", "S3_BUCKET_NAME")
+S3_REGION = os.getenv("S3_REGION")
+S3_ACCESS_KEY_ID = os.getenv("S3_ACCESS_KEY_ID")
+S3_SECRET_ACCESS_KEY = os.getenv("S3_SECRET_ACCESS_KEY")
+S3_BUCKET_NAME = os.getenv("S3_BUCKET_NAME")
 
 app = Flask(__name__)
 
