@@ -11,6 +11,7 @@ import sqlite3
 from queue import Queue
 from datetime import datetime
 import uuid
+from flask_cors import CORS
 
 # S3 BUCKET CREDENTIALS & DETAILS
 S3_REGION = os.getenv("S3_REGION")
@@ -19,7 +20,7 @@ S3_SECRET_ACCESS_KEY = os.getenv("S3_SECRET_ACCESS_KEY")
 S3_BUCKET_NAME = os.getenv("S3_BUCKET_NAME")
 
 app = Flask(__name__)
-
+CORS(app)
 # S3 Client
 s3 = boto3.resource(
     service_name='s3',
@@ -211,6 +212,28 @@ def clear_jobs():
         conn.commit()
 
     return jsonify(message="All jobs cleared successfully")
+
+@app.route('/get-metadata', methods=['POST'])
+def get_metadata():
+    data = request.get_json()
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    }
+    response = requests.get(data['reddit_post_url'] + ".json", headers=headers)
+    metadata = json.loads(response.content)
+    video_info = {
+    "id": "Math.random().toString(36).substr(2, 9)",
+    "url": metadata[0]['data']['children'][0]['data']['url'],
+    "source": metadata[0]['data']['children'][0]['data']['domain'],
+    "thumbnail": metadata[0]['data']['children'][0]['data']['thumbnail'],
+    "title": metadata[0]['data']['children'][0]['data']['title'],
+    "duration": f"{metadata[0]['data']['children'][0]['data']['secure_media']['reddit_video']['duration']} sec",
+    "quality": "1080p",
+    "views": metadata[0]['data']['children'][0]['data']['ups'],  # Using upvotes as a proxy for views
+    "uploader": metadata[0]['data']['children'][0]['data']['author'],
+    "uploadStatus": "pending",
+}
+    return jsonify(video_info)
 
 if __name__ == '__main__':
     app.run(debug=True)
